@@ -1,0 +1,8 @@
+GIT FETCH ORIGIN MASTER
+
+GIT REBASE MASTER
+
+STASH its a temprary save
+
+
+merging feature to master
